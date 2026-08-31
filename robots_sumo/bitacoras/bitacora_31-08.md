@@ -21,56 +21,37 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 
 
 ### Objetivos de la jornada:
-- Investigar sobre los articulos
+- Investigar sobre los puentes H y los pinouts de la raspberry
 - Realizar bocetos en papel y 3D
 - Planear futuro robot
-- 
+
 ### Actividades realizadas:
-- Investigar sobre los articulos
+- Investigar sobre los puentes H y los pinouts de la raspberry
 - Realizar bocetos en papel y 3D
 - Planear futuro robot
 
 ### Problemas encontrados:
 - A la hora de crear el boceto no se tuvieron en cuenta varias medidadas como el espesor del chasis, la ubicación del centro de gravedad y las medidas del circuito
-- 
--
+
 
 ### Soluciones implementadas o propuestas:
 - Que todo el circuito este dentro de un chasis,que en los costados tenga rampas y en el frente tenga manos para empujar al contrincante
--
--
 
 ### Pruebas realizadas:
--
--
--
 
 ### Resultados obtenidos:
--
--
--
 
 ### Fotografías, diagramas o evidencias: (Adjuntar imágenes, capturas de pantalla o esquemas)
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/cc20d696-5750-4dbe-89c5-821299f86adf" />
 
-Puente H
+<img width="814" height="503" alt="image" src="https://github.com/user-attachments/assets/76945248-655c-48a2-9ed2-80b573c38fec" />
 
-Un puente H sirve para controlar el movimiento de motores y cambiar la dirección de la energía eléctrica de forma automática.
+<img width="631" height="542" alt="image" src="https://github.com/user-attachments/assets/d4257cd9-af93-431e-a3f0-33ca57fefb32" />
 
-¿Como funciona?
 
-- La estructura tiene forma de H. En las lineas verticales, se encuentran los elementos de conmutación (los dispositivos que permiten abrir, cerrar o desviar el flujo de corriente eléctrica), mientras que en la línea del centro, se encuenta el motor.
-- Este funciona mediante transistores, que cuando a uno le llega electricidad desde un cerebro electrónico (como la raspberry), cambian las polaridades automaticamente
+### Tareas pendientes: 
+investigar sobre los puentes H
 
-- <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/a18e9e2a-ff9d-4be6-8593-529b61dba790" />
-
-<img width="814" height="503" alt="image" src="https://github.com/user-attachments/assets/77e9f589-a9cb-4e74-bdee-f63b1051557f" />
-
-<img width="631" height="542" alt="image" src="https://github.com/user-attachments/assets/74b92630-8b78-4bd9-adbd-916fcd601f9c" />
-
-### Tareas pendientes:
--
--
--
 
 ### APORTES INDIVIDUALES
 Integrante: ___Chaves Tobias_________________________
@@ -89,6 +70,3 @@ Integrante: ______Castagnello Santiago______________________
 
 Tarea realizada: Diseño del boceto 
 
-Integrante: ____________________________
-
-Tarea realizada:
