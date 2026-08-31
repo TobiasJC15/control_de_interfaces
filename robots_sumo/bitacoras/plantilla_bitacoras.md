@@ -2,14 +2,14 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 
 # BITÁCORA DE PROYECTO – ROBOT SUMO
 
-## Equipo: _______________________________
-## Nombre del Robot: ______________________
-## Capitán: _______________________________
-## Subcapitán: ____________________________
+## Equipo: 1 (4°2° avionica A)
+## Nombre del Robot: 
+## Capitán: Tobias Chaves
+## Subcapitán: Josefina Barreto
 ## Integrantes:
--
--
--
+- Angela Blanco 
+- Santiago Castagnello
+
 
 ## REGISTRO DE ACTIVIDADES
 ### Fecha: 
