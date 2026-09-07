@@ -34,4 +34,4 @@ Qué es y cómo funciona
     No es una mini PC: A diferencia de una Raspberry Pi tradicional, la Pico no ejecuta un sistema operativo completo ni maneja escritorios o pantallas de forma nativa; funciona de manera similar a un Arduino.
     Procesador: Cuenta con un chip con doble núcleo ARM Cortex (M0+ o superior según la versión).
     Programación: Se programa principalmente en C/C++ o MicroPython/CircuitPython transfiriendo archivos directamente por USB. 
-Puedes alimentar una Raspberry Pi Pico conectando un portapilas de 4 pilas UM-4 (AAA) directamente al pin VSYS (Pin 39) y a un pin GND (Tierra, como el Pin 38), siempre y cuando utilices pilas recargables NiMH de 1.2V (total 4.8V). 
+Puedes alimentar una Raspberry Pi Pico conectando un portapilas de 4 pilas UM-4 (AAA) directamente al pin desconocido (?) y a un pin GND (Tierra, como el Pin 38), siempre y cuando utilices pilas recargables NiMH de 1.2V (total 4.8V). 
