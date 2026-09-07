@@ -27,36 +27,25 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 -  Comenzar con la programacion
 -  Activar el puente H
 ### Actividades realizadas:
--
--
--
+-  Terminar la estructura 3D
+-  Terminar el circuito en papel
+-  Solucionar problemas
+-  Comenzar con la programacion
+-  Activar el puente H
 
 ### Problemas encontrados:
--
--
--
 
 ### Soluciones implementadas o propuestas:
--
--
--
-
+-  La solucion del problema de la estructura con el centro de gravedad fue agregar una ruedita en el frente.
+- 
 ### Pruebas realizadas:
--
--
--
+
 
 ### Resultados obtenidos:
--
--
--
 
 ### Fotografías, diagramas o evidencias: (Adjuntar imágenes, capturas de pantalla o esquemas)
 
 ### Tareas pendientes:
--
--
--
 
 ### APORTES INDIVIDUALES
 Integrante: Chaves Tobias
