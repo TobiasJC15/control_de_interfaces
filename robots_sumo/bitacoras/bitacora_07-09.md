@@ -13,16 +13,19 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 
 ## REGISTRO DE ACTIVIDADES
 ### Fecha: 
+ 07/09/2026
 ### Integrantes presentes:
--
--
--
+-  Barreto Josefina
+-  Blanco Angela
+-  Castagnello Santiago
+-  Chaves Tobias
 
 ### Objetivos de la jornada:
-- Terminar la estructura 3D
-- Terminar el circuito en tinkercad y papel
-- Solucionar problemas
-
+-  Terminar la estructura 3D
+-  Terminar el circuito en tinkercad y papel
+-  Solucionar problemas
+-  Comenzar con la programacion
+-  Activar el puente H
 ### Actividades realizadas:
 -
 -
@@ -56,22 +59,19 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 -
 
 ### APORTES INDIVIDUALES
-Integrante: ____________________________
+Integrante: Chaves Tobias
 
-Tarea realizada:
+Tarea realizada: Diseño del circuito
 
-Integrante: ____________________________
+Integrante: Barreto Josefina
 
-Tarea realizada:
+Tarea realizada: Comenzar con la programacion
 
-Integrante: ____________________________
+Integrante: Blanco Angela
 
-Tarea realizada:
+Tarea realizada: investigacion sobre como alimentar la raspberry, publicar la informacion que faltaba de la clase pasada
 
-Integrante: ____________________________
+Integrante: Castagnello Santiago
 
-Tarea realizada:
+Tarea realizada: Terminar la estructura 3D y solucionar el problema del centro de gravedad
 
-Integrante: ____________________________
-
-Tarea realizada:
