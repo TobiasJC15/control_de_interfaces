@@ -37,7 +37,7 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 
 ### Soluciones implementadas o propuestas:
 -  La solucion del problema de la estructura con el centro de gravedad fue agregar una ruedita en el frente.
-- 
+  
 ### Pruebas realizadas:
 
 
