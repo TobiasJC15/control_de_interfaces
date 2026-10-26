@@ -21,7 +21,7 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 ### Objetivos de la jornada:
 - Probar el codigo
 - Terminar con el chasis
-
+- Terminar el circuito en tinkercad
 
 ### Actividades realizadas:
 -
